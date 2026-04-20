@@ -1,0 +1,213 @@
+{
+  "profile": {
+    "name": "Shivaniben Patel",
+    "title": ".NET Developer",
+    "bio": "Experienced and passionate .NET Developer with over 8 years of proven success in building secure, high-performance applications in the banking, insurance, e-commerce, and digital experience management industries. Strong expertise in C#, ASP.NET Core, MVC, REST APIs, WCF, and modern JavaScript frameworks like Angular (v2–18). Specializes in full-stack development using .NET, Angular, and Azure to deliver scalable web applications and enterprise solutions. Experienced with GitHub Copilot and AI-assisted development workflows. Thrives in Agile environments and enjoys translating complex business requirements into elegant, user-friendly solutions.",
+    "location": "Harleysville, PA 19438",
+    "links": {
+      "email": "shivaniben021@gmail.com",
+      "phone": "267-328-4601",
+      "linkedin": "https://www.linkedin.com/in/shivanibenpatel/"
+    },
+    "education": {
+      "degree": "Bachelor of Engineering (BE)",
+      "field": "Information Technology",
+      "institution": "Gujarat University",
+      "year": 2011
+    }
+  },
+
+  "experience": [
+    {
+      "company": "WesBanco Bank",
+      "location": "Wheeling, WV",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2024-07",
+      "endDate": null,
+      "current": true,
+      "bullets": [
+        "Collaborated with business stakeholders to translate requirements into functional and technical specifications using Agile/Scrum methodologies.",
+        "Designed and developed scalable backend services using ASP.NET Core 6/8, C#, and RESTful Web APIs for financial transaction matching and reconciliation.",
+        "Integrated AI-assisted development workflows using GitHub Copilot and LLMs to accelerate code generation, refactoring, documentation, and unit test creation.",
+        "Architected microservices-based solutions using ASP.NET Core Web API, Entity Framework Core (Code-First), and SQL Server 2022.",
+        "Built intelligent reconciliation workflows integrating BlackLine and ReconNet with automated validation and rule-based processing logic.",
+        "Built responsive frontend applications using Angular 15–18, TypeScript, Bootstrap, HTML5, and CSS3 with signal-based reactivity and deferred loading.",
+        "Designed secure authentication/authorization using ASP.NET Core Identity and JWT tokens with role-based access control.",
+        "Implemented PCI-DSS compliant solutions with encryption, secure key management, and protected API endpoints.",
+        "Migrated legacy applications from IaaS to Azure PaaS services (App Services, Worker Roles, Azure SQL) for improved scalability.",
+        "Containerized applications using Docker and supported CI/CD pipelines via TFS, Jenkins, and Azure DevOps.",
+        "Configured batch workflows and job scheduling using Control-M to enhance transaction processing efficiency.",
+        "Implemented WCF-to-REST modernization strategies, replacing SOAP services with ASP.NET Core Web APIs."
+      ],
+      "environment": ["ASP.NET Core 6/8", "C#", "Angular 15–18", "TypeScript", "Entity Framework Core", "SQL Server 2022", "Azure", "Docker", "Jenkins", "TFS/Azure DevOps", "Git", "Jira", "Bootstrap", "Agile/Scrum", "GitHub Copilot"]
+    },
+    {
+      "company": "Penn National Insurance",
+      "location": "Harrisburg, PA",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2023-01",
+      "endDate": "2024-06",
+      "current": false,
+      "bullets": [
+        "Utilized Agile methodologies for rapid development, continuous delivery, and regular adaptation to varying requirements.",
+        "Built Single Page Applications (SPAs) using Angular 16, TypeScript, HTML5, and SCSS with Angular Material components.",
+        "Achieved backend development using ASP.NET Core MVC, creating partial views, reusable components, and business rules in C#.",
+        "Secured APIs using JWT Tokens for ASP.NET Core Web APIs and implemented global-level authentication in Web API 2.",
+        "Modernized legacy systems by converting applications from IaaS to Azure PaaS using Windows Azure Worker Roles.",
+        "Utilized RxJS and Angular services to manage asynchronous data flows, observables, and real-time data updates.",
+        "Managed distributed version control using Git with experience in rebasing, feature branches, and merging.",
+        "Deployed .NET applications across Dev, Validation, UAT, and Production environments using IIS."
+      ],
+      "environment": ["C#", "ASP.NET Core 3.x", "ASP.NET Web API 2", "Angular 16", "TypeScript", "HTML5", "JSON", "Azure", "TFS", "SQL Server 2017", "Agile"]
+    },
+    {
+      "company": "Uncommon Goods",
+      "location": "Brooklyn, NY",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2020-07",
+      "endDate": "2022-12",
+      "current": false,
+      "bullets": [
+        "Developed CRUD components and services using TypeScript in Angular 9/10 architecture.",
+        "Built user interface with ASP.NET Core and implemented business logic using C# MVC controllers.",
+        "Implemented RESTful Web APIs using ASP.NET Web API and integrated Entity Framework Code First for the Data Access Layer.",
+        "Created Azure Queue-based web applications running on Windows Azure and SQL Azure.",
+        "Designed and developed Web APIs, WCF, and web services for cross-platform integrations.",
+        "Improved SSRS reports and displayed Table, List, and Matrix reports on ASP.NET Web Forms.",
+        "Increased data quality using robust error handling and logging mechanisms in SSIS packages.",
+        "Utilized N-Unit and XUnit frameworks to implement unit and integration test cases."
+      ],
+      "environment": [".NET Core", "C#", "Angular 9/10", "TypeScript", "Azure", "HTML5", "CSS3", "Bootstrap", "SQL Server 2019", "NUnit", "SSIS", "SSRS", "TFS", "Agile"]
+    },
+    {
+      "company": "Grange Insurance",
+      "location": "Columbus, OH",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2019-01",
+      "endDate": "2020-06",
+      "current": false,
+      "bullets": [
+        "Maintained and extended architecture built on .NET Framework 4.8, C#, Entity Framework, and Angular 6/8.",
+        "Implemented WCF services layer on Windows Azure with SQL Azure Content Gateway between the database and online content.",
+        "Provided WCF services through IIS following Service-Oriented Architecture (SOA) principles.",
+        "Applied WCF throttling and concurrency to increase throughput of web services.",
+        "Implemented drill-down functionality in SSRS reports for navigation from summary to detailed data.",
+        "Utilized ADO.NET Entity Framework extensively for retrieving, querying, storing, and manipulating data.",
+        "Developed databases, views, stored procedures, and T-SQL statements following SQL Server best practices.",
+        "Utilized NUnit to develop unit testing scenarios for Business and Service classes."
+      ],
+      "environment": [".NET Framework 4.8", "C#", "ADO.NET", "Angular 6/8", "ASP.NET", "WCF", "HTML5", "CSS3", "jQuery", "AJAX", "NUnit", "SSRS", "LINQ", "Git", "SQL Server", "Azure", "Agile"]
+    },
+    {
+      "company": "AmeriServ Financial Bank",
+      "location": "Johnstown, PA",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2017-06",
+      "endDate": "2018-12",
+      "current": false,
+      "bullets": [
+        "Implemented presentation, business component, and database access layers for ASP.NET 4.8 and C# Web Forms.",
+        "Used Angular's $http service to invoke Web API RESTful services and set up projects using Angular CLI.",
+        "Implemented JSON-based authentication for ASP.NET applications using .NET Framework, MVC, and IIS security models.",
+        "Created reusable C# class libraries and developed business logic for multi-threaded applications.",
+        "Created T-SQL views and stored procedures as needed for SQL Server data access.",
+        "Managed versioning, project tracking, and reporting using Team Foundation Server (TFS)."
+      ],
+      "environment": [".NET Framework 4.8", "C#", "Angular 2/4", "ASP.NET", "SQL Server", "IIS", "HTML5", "CSS3", "jQuery", "AJAX", "TFS", "Agile"]
+    }
+  ],
+
+  "skills": {
+    "languages": ["C#", "TypeScript", "JavaScript", "T-SQL"],
+    "dotnetTechnologies": [
+      ".NET Core 6/8",
+      ".NET Framework 4.8",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "ADO.NET",
+      "Entity Framework Core",
+      "LINQ",
+      "WCF",
+      "SOAP",
+      "REST APIs",
+      "Web Forms",
+      "Windows Services"
+    ],
+    "frontend": [
+      "Angular 2–18",
+      "Angular Material",
+      "RxJS",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "AJAX",
+      "jQuery"
+    ],
+    "cloud": [
+      "Microsoft Azure",
+      "Azure App Services",
+      "Azure PaaS / IaaS",
+      "Azure SQL",
+      "Azure Blob Storage",
+      "Azure DevOps",
+      "Azure Worker Roles",
+      "Azure Queues"
+    ],
+    "databases": ["SQL Server 2017/2019/2022", "Oracle"],
+    "devOpsAndTools": [
+      "Git",
+      "TFS",
+      "Jenkins",
+      "Docker",
+      "Jira",
+      "Postman",
+      "Fiddler",
+      "Visual Studio",
+      "VS Code",
+      "IIS"
+    ],
+    "reporting": ["SSRS", "Telerik Reporting", "SSIS"],
+    "testing": ["NUnit", "XUnit"],
+    "reconciliationPlatforms": ["BlackLine", "ReconNet", "Control-M"],
+    "aiTools": ["GitHub Copilot", "LLM-based development tools"],
+    "methodologies": ["Agile/Scrum", "SDLC", "SOA", "OOAD", "OOP", "CI/CD", "Microservices", "Repository Pattern", "Unit of Work"]
+  },
+
+  "projects": [
+    {
+      "name": "Banking Transaction Reconciliation System",
+      "company": "WesBanco Bank",
+      "description": "Modern banking application integrating financial transaction matching and reconciliation using .NET Core, Angular 15–18, and Azure. Features microservices architecture, PCI-DSS compliance, and AI-assisted development with GitHub Copilot.",
+      "technologies": ["ASP.NET Core 6/8", "Angular 15–18", "Azure", "Entity Framework Core", "SQL Server 2022", "Docker", "Jenkins", "BlackLine", "ReconNet", "Control-M"]
+    },
+    {
+      "name": "Insurance SPA Modernization",
+      "company": "Penn National Insurance",
+      "description": "Modernized legacy insurance infrastructure with Angular 16 SPAs and ASP.NET Core MVC APIs. Migrated from IaaS to Azure PaaS reducing infrastructure costs by 30%.",
+      "technologies": ["Angular 16", "ASP.NET Core", "JWT", "Azure PaaS", "RxJS", "SQL Server 2017"]
+    },
+    {
+      "name": "E-Commerce Platform",
+      "company": "Uncommon Goods",
+      "description": "Full-stack e-commerce application with Azure-based infrastructure, SSRS reporting, REST APIs, WCF services, and Azure Queues for streamlined operations.",
+      "technologies": ["ASP.NET Core", "Angular 9/10", "Azure", "SQL Server 2019", "SSRS", "SSIS", "WCF", "Entity Framework"]
+    },
+    {
+      "name": "Insurance Systems Platform",
+      "company": "Grange Insurance",
+      "description": "Insurance management systems built on .NET Framework 4.8 with WCF services on Azure, SOA architecture, SSRS drill-down reporting, and optimized T-SQL performance.",
+      "technologies": [".NET Framework 4.8", "Angular 6/8", "WCF", "Azure", "SSRS", "ADO.NET", "SQL Server"]
+    },
+    {
+      "name": "Banking Web Application",
+      "company": "AmeriServ Financial Bank",
+      "description": "ASP.NET Web Forms and MVC application with reusable C# class libraries, Angular 4 responsive UI, JSON-based authentication, and TFS-managed source control.",
+      "technologies": ["ASP.NET", "Angular 4", "C#", "SQL Server", "TFS", "IIS"]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@layer components {
+  .projects-section {
+    @apply py-16 px-4 bg-gray-50 dark:bg-gray-800;
+  }
+
+  .projects-container {
+    @apply max-w-6xl mx-auto;
+  }
+
+  .projects-header {
+    @apply text-center mb-12;
+  }
+
+  .projects-header h2 {
+    @apply text-4xl font-bold text-gray-900 dark:text-white mb-2;
+  }
+
+  .projects-header p {
+    @apply text-lg text-gray-600 dark:text-gray-400;
+  }
+
+  .projects-grid {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+  }
+
+  @media (max-width: 768px) {
+    .projects-grid {
+      @apply grid-cols-1;
+    }
+  }
+}
