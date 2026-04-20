@@ -32,7 +32,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-100 dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-8 px-4">
         <div className="max-w-6xl mx-auto text-center text-gray-600 dark:text-gray-400">
-          <p>&copy; 2024 {profile.name}. All rights reserved.</p>
+          <p>&copy; 2026 {profile.name}. All rights reserved.</p>
         </div>
       </footer>
     </div>
