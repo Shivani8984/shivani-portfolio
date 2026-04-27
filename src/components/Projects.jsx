@@ -5,7 +5,7 @@ export default function Projects() {
   const projects = portfolioData.projects;
 
   return (
-    <section className="relative py-24 px-4">
+    <section id="projects" className="relative py-24 px-4">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <div style={{ animation: 'fadeInUp 0.8s ease-out' }}>
@@ -21,7 +21,7 @@ export default function Projects() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, idx) => (
             <div key={idx} style={{ animation: `fadeInUp 0.8s ease-out ${0.1 * (idx + 1)}s both` }}>
-              <ProjectCard project={project} />
+              <ProjectCard project={project} index={idx} />
             </div>
           ))}
         </div>
