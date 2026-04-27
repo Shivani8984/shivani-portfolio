@@ -16,6 +16,83 @@
       "year": 2011
     }
   },
+  "experience": [
+    {
+      "company": "WesBanco Bank",
+      "location": "Wheeling, WV",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2024-07",
+      "endDate": null,
+      "current": true,
+      "bullets": [
+        "Designed scalable backend services using ASP.NET Core 6/8, C#, and RESTful APIs for financial transaction reconciliation.",
+        "Integrated GitHub Copilot and LLMs to accelerate code generation, refactoring, and documentation workflows.",
+        "Architected microservices solutions using Entity Framework Core (Code-First) and SQL Server 2022."
+      ],
+      "environment": ["ASP.NET Core 6/8", "Angular 15–18", "Azure", "Entity Framework Core", "SQL Server 2022", "Docker", "Jenkins", "GitHub Copilot"]
+    },
+    {
+      "company": "Penn National Insurance",
+      "location": "Harrisburg, PA",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2023-01",
+      "endDate": "2024-06",
+      "current": false,
+      "bullets": [
+        "Built SPAs using Angular 16, TypeScript, and Angular Material with RxJS state management.",
+        "Developed ASP.NET Core MVC APIs secured with JWT tokens and global-level Web API authentication.",
+        "Modernized legacy systems by converting IaaS to Azure PaaS, cutting infrastructure costs by 30%."
+      ],
+      "environment": ["Angular 16", "ASP.NET Core", "JWT", "Azure PaaS", "RxJS", "SQL Server 2017"]
+    },
+    {
+      "company": "Uncommon Goods",
+      "location": "Brooklyn, NY",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2020-07",
+      "endDate": "2022-12",
+      "current": false,
+      "bullets": [
+        "Developed CRUD components in Angular 9/10 and built ASP.NET Core MVC business logic in C#.",
+        "Implemented RESTful Web APIs and integrated Entity Framework Code First for data access.",
+        "Created Azure Queue-based applications running on Windows Azure and SQL Azure."
+      ],
+      "environment": ["Angular 9/10", ".NET Core", "Azure", "Entity Framework", "SSRS", "NUnit"]
+    },
+    {
+      "company": "Grange Insurance",
+      "location": "Columbus, OH",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2019-01",
+      "endDate": "2020-06",
+      "current": false,
+      "bullets": [
+        "Maintained .NET Framework 4.8 architecture with Entity Framework ORM and Angular 6/8.",
+        "Implemented WCF services on Azure following SOA principles with throttling and concurrency.",
+        "Built drill-down SSRS reports and optimized SQL Server databases with T-SQL best practices."
+      ],
+      "environment": [".NET Framework 4.8", "Angular 6/8", "WCF", "Azure", "SSRS", "ADO.NET"]
+    },
+    {
+      "company": "AmeriServ Financial Bank",
+      "location": "Johnstown, PA",
+      "role": ".NET Developer",
+      "type": "Contract",
+      "startDate": "2017-06",
+      "endDate": "2018-12",
+      "current": false,
+      "bullets": [
+        "Built ASP.NET 4.8 Web Forms with C# business logic, reusable class libraries, and Angular 4 UI.",
+        "Implemented JSON-based authentication using .NET Framework MVC and IIS security models.",
+        "Managed project versioning, builds, and reporting using Team Foundation Server (TFS)."
+      ],
+      "environment": ["ASP.NET 4.8", "Angular 2/4", "C#", "SQL Server", "TFS", "IIS"]
+    }
+  ],
   "projects": [
     {
       "name": "Banking Transaction Reconciliation System",

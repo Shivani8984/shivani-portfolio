@@ -1,4 +1,5 @@
 import Projects from './components/Projects'
+import EducationExperience from './components/EducationExperience'
 import portfolioData from './portfolio_data.json'
 
 function App() {
@@ -61,6 +62,9 @@ function App() {
 
       {/* Projects Section */}
       <Projects />
+
+      {/* Education & Experience Section */}
+      <EducationExperience data={portfolioData} />
 
       {/* Footer */}
       <footer className="relative border-t border-purple-900/30 py-12 px-4">
