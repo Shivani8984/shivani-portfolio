@@ -124,5 +124,61 @@
       "description": "ASP.NET Web Forms and MVC application with reusable C# class libraries, Angular 4 responsive UI, JSON-based authentication, and TFS-managed source control.",
       "technologies": ["ASP.NET", "Angular 4", "C#", "SQL Server", "TFS", "IIS"]
     }
-  ]
+  ],
+  "skills": {
+    "languages": ["C#", "TypeScript", "JavaScript", "T-SQL"],
+    "dotnetTechnologies": [
+      ".NET Core 6/8",
+      ".NET Framework 4.8",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "ADO.NET",
+      "Entity Framework Core",
+      "LINQ",
+      "WCF",
+      "SOAP",
+      "REST APIs",
+      "Web Forms",
+      "Windows Services"
+    ],
+    "frontend": [
+      "Angular 2–18",
+      "Angular Material",
+      "RxJS",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "AJAX",
+      "jQuery"
+    ],
+    "cloud": [
+      "Microsoft Azure",
+      "Azure App Services",
+      "Azure PaaS / IaaS",
+      "Azure SQL",
+      "Azure Blob Storage",
+      "Azure DevOps",
+      "Azure Worker Roles",
+      "Azure Queues"
+    ],
+    "Databases": ["SQL Server", "MongoDB", "PostgreSQL", "GraphQL", "Entity Framework Core"],
+    "devOpsAndTools": [
+      "Git",
+      "TFS",
+      "Jenkins",
+      "Docker",
+      "Jira",
+      "Postman",
+      "Fiddler",
+      "Visual Studio",
+      "VS Code",
+      "IIS"
+    ],
+    "reporting": ["SSRS", "Telerik Reporting", "SSIS"],
+    "testing": ["NUnit", "XUnit"],
+    "reconciliationPlatforms": ["BlackLine", "ReconNet", "Control-M"],
+    "aiTools": ["GitHub Copilot", "LLM-based development tools"],
+    "methodologies": ["Agile/Scrum", "SDLC", "SOA", "OOAD", "OOP", "CI/CD", "Microservices", "Repository Pattern", "Unit of Work"]
+  }
+ 
 }
